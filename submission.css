@@ -1,0 +1,29 @@
+@media only screen and (max-width: 600px) {
+  .button-container {
+    margin-right: 70vh;
+  }
+
+  .link-primary{
+    margin-right: 39vh;
+  }
+
+  .item{
+    display: block;
+  }
+
+  .card-container{
+    display: none;
+  }
+
+  .dropdown_card{
+    margin-right: 28vh;
+  }
+
+  .list_card{
+    margin-top: 20px;
+  }
+}
+
+.custom{
+  height: 165px;
+}
