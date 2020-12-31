@@ -3,6 +3,10 @@
     margin-right: 70vh;
   }
 
+  .mr{
+    margin-top: 15px;
+  }
+
   .link-primary{
     margin-right: 39vh;
   }
@@ -16,7 +20,10 @@
   }
 
   .dropdown_card{
-    margin-right: 28vh;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
   }
 
   .list_card{
